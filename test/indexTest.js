@@ -27,5 +27,5 @@ describe( "index.js", () => {
         expect( window.renderBooks ).to.have.been.called();
       })
     } )
-  } )
+  })
 })
